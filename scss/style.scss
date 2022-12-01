@@ -1,0 +1,26 @@
+@import '_nullstyle.scss';
+@import '_fonts.scss';
+@import '_header.scss';
+@import '_main.scss';
+@import '_about.scss';
+@import '_skills.scss';
+@import '_portfolio.scss';
+@import '_contacts.scss';
+//=====================================
+
+body, html{
+	font-family: 'Gilroy';
+	font-size: 18px;
+	color: black;
+}
+.container {
+	width: 100%;
+	max-width: 950px;
+	margin: 0 auto;
+}
+.title{
+	font-size: 34px;
+	line-height: 42px;
+	text-align: center; 
+	font-weight: 700;
+}

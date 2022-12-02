@@ -1,9 +1,10 @@
 .main {
+	
 	&__descrip {
 		display: flex;
 		justify-content: space-between;
 		align-items: flex-end;
-		margin-bottom: 50px;
+		margin: 0 50px 50px 50px;
 	}
 
 	&__title {
